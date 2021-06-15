@@ -3,5 +3,12 @@ Repositorio creado para el taller CV del curso de herramientas computacionales d
 
 ## Ejercicios
 
-### Ejercicio #1
+### *Ejercicio #1*
+En el **ejercicio #1** se busca encontrar el área de un triangulo, dada su base y su altura.
+El ejercicio tiene como entradas:
+* **Base**
+* **Altura**
+La salida de este programa, es el resultado del calculo del área, teniendo en cuenta la ecuación
+*Área = (base * altura) / 2 *
+
 
