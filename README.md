@@ -16,4 +16,21 @@ La implementación de este ejercicio se encuentra en Python, en el archivo ***Ej
 
 
 ### *Ejercicio #2*
+En el **ejercicio #2** se busca encontrar promedio ponderado del semestre.
+El ejercicio tiene como entradas:
 
+   **Entradas**
+|------------|
+|- Nota parcial 1| 
+|- Nota parcial 2|
+|- Nota Taller|
+|- Nota proyecto|
+
+
+Cada parcial tendra un peso del *25%*, el taller del *20%* y por ultimo, el proyecto tendrá un valor del *30%*.
+
+
+La salida del archivo es la nota dada por el calculo con los ponderados.
+
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio2.py***
