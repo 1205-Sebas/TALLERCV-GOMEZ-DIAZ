@@ -8,7 +8,12 @@ En el **ejercicio #1** se busca encontrar el área de un triangulo, dada su base
 El ejercicio tiene como entradas:
 * **Base**
 * **Altura**
-La salida de este programa, es el resultado del calculo del área, teniendo en cuenta la ecuación
-*Área = (base * altura) / 2 *
+La salida de este programa, es el resultado del calculo del área, teniendo en cuenta la ecuación:
+*Área = (base X altura) / 2*
 
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio1.py***
+
+
+### *Ejercicio #2*
 
