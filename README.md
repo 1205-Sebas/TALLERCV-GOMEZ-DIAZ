@@ -31,6 +31,26 @@ Cada parcial tendra un peso del *25%*, el taller del *20%* y por ultimo, el proy
 
 
 La salida del archivo es la nota dada por el calculo con los ponderados.
-
-
 La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio2.py***
+
+
+### *Ejercicio #3*
+En el **ejercicio #3** se busca dar la conversión de grados *Celsius* a *Fahrenheit*.
+El ejercicio tiene como entradas:
+ **Entradas**
+|------------|
+|- Grados *Celsius*| 
+
+
+Como salida da el total de grados *fahrenheit*. Basado en la formula, *Gf= (celsius X 1.8) +32*
+
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio3.py***
+
+### *Ejercicio #4*
+### *Ejercicio #5*
+### *Ejercicio #6*
+### *Ejercicio #7*
+
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio3.py***
