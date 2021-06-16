@@ -48,6 +48,22 @@ Como salida da el total de grados *fahrenheit*. Basado en la formula, *Gf= (cels
 La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio3.py***
 
 ### *Ejercicio #4*
+
+En el **ejercicio #4** se pide elaborar un algoritmo que permita calcular cuál es el precio final a pagar por una factura de
+productos, la factura imprime con minimo un producto y no tiene es conocido su fin.
+ **Entradas**
+|------------|
+|- Cantidad de producto A| 
+|- Cantidad de producto B|
+|- Cantidad de producto C|
+|- Cantidad de producto D|
+|- Cantidad de producto *n*|
+
+La salida debe imprimir la descripción del artículo, su precio y el iva que corresponde al 8% sobre el
+producto, al final se debe indicar el precio total a pagar.
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio4.py***
+
 ### *Ejercicio #5*
 ### *Ejercicio #6*
 ### *Ejercicio #7*
