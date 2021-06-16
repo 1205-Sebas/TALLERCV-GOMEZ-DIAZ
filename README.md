@@ -113,4 +113,53 @@ estudiantes.
 La salida debe imprimir el mayor promedio del curso, indicando el nombre del estudiante, y se imprime también el 
 el menor promedio del curso, indicando el nombre del estudiante al cual pertenece ese promedio.
 
+### *Ejercicio #5*
+
+En el **ejercicio # 5** se pide elaborar una casa de cambio, que reciba una cantidad de dinero en pesos colombianos y
+realice su equivalente en dólares, yenes y euro dependiendo de la tasa reprensentativa actual de cada moneda incluyendo 
+un 2% de ganancia.
+
+ **Entradas**
+|------------|
+|- Pesos colombianos| 
+
+
+La salida debe imprimir el valor en las tres diferentes monedas (dólares, yenes y euros) más el 2% de ganancia de ese valor.
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio5.py***
+
+### *Ejercicio #6*
+
+En el **ejercicio #6** se debe elaborar un algoritmo que permita realizar el inventario de una tienda, es decir la cantidad 
+de unidades de cada tipo de producto que existen actualmente en la tienda. 
+
+ **Entradas**
+|------------|
+|- Cantidad de Aceite| 
+|- Cantidad de Arroz|
+|- Cantidad de Cerveza|
+|- Cantidad de Gaseosa|
+|- Cantidad de Panela|
+|- Cantidad de Azucar|
+|- Cantidad de Café|
+|- Promedio|
+
+La salida debe imprimir una lista ordenada de los productos de menor a mayor cantidad.
+
+La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio6.py***
+
+### *Ejercicio #7*
+
+En el **ejercicio #7** se debe elaborar un algoritmo que permita hallar el estudiante con mejor promedio de un curso de 30
+estudiantes.
+
+ **Entradas**
+|------------|
+|- Número de veces| 
+|- Promedio de los estudiantes|
+|- Nombre de los estudiantes|
+
+La salida debe imprimir el mayor promedio del curso, indicando el nombre del estudiante, y se imprime también el 
+el menor promedio del curso, indicando el nombre del estudiante al cual pertenece ese promedio.
+
 La implementación de este ejercicio se encuentra en Python, en el archivo ***Ejercicio7.py***
